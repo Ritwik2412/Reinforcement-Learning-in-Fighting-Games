@@ -1,0 +1,6 @@
+gym
+numpy
+torch
+pygame
+matplotlib
+opencv-python
